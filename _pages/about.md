@@ -21,7 +21,11 @@ Education
   * Major GPA: 3.95/4.00, Charlottesville, VA, United States
 * Visiting Student in the University of British Columbia (June 2018 - August 2018)
   * Department of Electrical and Computer Engineering, Vancouver, BC, Canada 
-* Bachelor of Computer Science in Hebei University of Technology,  (Sept 2015 - June 2019)
+* Bachelor of Computer Science in Hebei University of Technology (Sept 2015 - June 2019)
   * Major GPA: 87/100, Tianjin, China
  
  
+Programming
+===
+* Programming in Python/Java/C++/C/R/Javascript/HTML/CSS/SQL/ MATLAB
+* Skillful in PyTorch/TensorFlow/Scikit-learn/Latex   
