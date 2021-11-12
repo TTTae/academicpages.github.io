@@ -1,3 +1,11 @@
+---
+layout: archive
+title: "CV"
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
+---
 <!-- ---
 title: "Research"
 permalink: /research/
@@ -13,15 +21,6 @@ author_profile: true
 {% for post in site.research reversed %}
   {% include archive-single.html %}
 {% endfor %} -->
----
-layout: archive
-title: "CV"
-permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
----
-
 {% include base_path %}
 
 Education
