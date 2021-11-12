@@ -21,7 +21,8 @@ __Zheng Huang__, Jing Ma, Natasha Zhang Foutz and Jundong Li (Sep 2020 - Jul 202
 
 Assessing the Causal Impact of COVID-19 Related Policies on Outbreak Dynamics
 ======
-<img src="../images/causal.png.png" align="left" width="200" height="200">
+<img src="../images/causal.png" align="left" width="200" height="200">
+
 Jing Ma, Yushun Dong, __Zheng Huang__, Daniel Mietchen and Jundong Li (Sep 2020 - Mar 2021, Submitted)
   *  Studied on the causal effect of different policies in reducing the spread of COVID-19 in the US
   *  Worked on a team and developed a neural network framework (GCNs&RNNs) based on time-varying observation data to control the influence of confounders, and integrated data from different data sources
