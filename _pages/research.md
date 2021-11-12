@@ -11,7 +11,7 @@ Empower Next POI Recommendation with Multi-Relation Modeling
 ======
 __Zheng Huang__, Jing Ma, Natasha Zhang Foutz and Jundong Li (Sep 2020 - Jul 2021, Submitted)
 
-<img src="../images/model_input.png" align="left" width="90" height="400">
+<img src="../images/model_input.png" align="left" width="120" height="400">
 <ul>
 <li>Studied on Points of Interests (POI) recommendation by capturing the influence of multiple relations </li>
 <li>Utilized multiple Graph Convolutional Networks (GCNs) with Self-Attention mechanism to capture multiple user-user social relations (family or colleague) and user-location check-in relations</li>
