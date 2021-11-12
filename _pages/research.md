@@ -6,6 +6,16 @@ author_profile: true
 ---
 {% include base_path %}
 
+
+Pulication
+======
+* Empower Next POI Recommendation with Multi-Relation Modeling, Sep 2020 - Jul 2021
+  *  Studied on Points of Interests (POI) recommendation by capturing the influence of multiple relations
+  *  Utilized multiple Graph Convolutional Networks (GCNs) with Self-Attention mechanism to capture multiple user-user social relations (family or colleague) and user-location check-in relations
+  *  Adopted coupled Recurrent Neural Networks (RNNs) to capture the mutal influence between users and POIs over time
+  *  Conducted in-depth research on recommender system, sequential recommendation and Graph Convolutional Networks
+
+
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
