@@ -21,9 +21,6 @@ Empower Next POI Recommendation with Multi-Relation Modeling
 Assessing the Causal Impact of COVID-19 Related Policies on Outbreak Dynamics
 ======
 * Jing Ma, Yushun Dong, __Zheng Huang__, Daniel Mietchen and Jundong Li (Sep 2020 - Mar 2021, Submitted, [PDF](https://arxiv.org/pdf/2106.01315.pdf))
-
-<!-- <img src="../images/causal.png" align="left" width="200" height="200"> -->
-
   *  Studied on the causal effect of different policies in reducing the spread of COVID-19 in the US
   *  Worked on a team and developed a neural network framework (GCNs&RNNs) based on time-varying observation data to control the influence of confounders, and integrated data from different data sources
   *  Investigated the problem of causal inference and COVID-19 observational social network data  
