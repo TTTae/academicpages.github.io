@@ -11,7 +11,7 @@ Empower Next POI Recommendation with Multi-Relation Modeling
 ======
 __Zheng Huang__, Jing Ma, Natasha Zhang Foutz and Jundong Li (Sep 2020 - Jul 2021, Submitted)
 
-<img src="../images/model_figure.png" align="left" width="200" height="400">
+<img src="../images/model_figure.png" align="left" width="150" height="400">
 
 
   *  Studied on Points of Interests (POI) recommendation by capturing the influence of multiple relations
@@ -25,7 +25,7 @@ Assessing the Causal Impact of COVID-19 Related Policies on Outbreak Dynamics
 ======
 Jing Ma, Yushun Dong, __Zheng Huang__, Daniel Mietchen and Jundong Li (Sep 2020 - Mar 2021, Submitted, [PDF](https://arxiv.org/pdf/2106.01315.pdf))
 
-<img src="../images/causal.png" align="left" width="200" height="300">
+<img src="../images/causal.png" align="left" width="150" height="300">
 
 
   *  Studied on the causal effect of different policies in reducing the spread of COVID-19 in the US
