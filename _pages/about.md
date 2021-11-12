@@ -37,3 +37,8 @@ External Reviewer: PAKDD’21, WSDM'21
 Awards
 ===
 Top Academic Fellowship (2016, 2017, 2018)
+
+Misc.
+===
+* I come from [Tianjin](https://en.wikipedia.org/wiki/Tianjin), a coastal metropolis in Northern China
+* I like Guitar, Piano, Driving and K-pop, my favourite K-pop group is [Girls' Generation](https://en.wikipedia.org/wiki/Girls%27_Generation)
