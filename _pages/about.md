@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Zheng Huang"
+title: "Biography"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,6 +10,9 @@ redirect_from:
 
 I am currently a second-year CS master student at the University of Virginia, and had the fortune to be advised by Prof. Jundong Li. Previously, I received my CS bachelor degree in Hebei University of Technology.
 
+
+Research Interest
+===
 My research mainly focus on graph neural networks, with their applications in social recommenation, graph mining, etc.
 
 <!-- A data-driven personal website
