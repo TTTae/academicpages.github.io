@@ -9,7 +9,6 @@ author_profile: true
 
 Empower Next POI Recommendation with Multi-Relation Modeling   
 ======
-
 __Zheng Huang__, Jing Ma, Natasha Zhang Foutz and Jundong Li (Sep 2020 - Jul 2021, Submitted)
 <img src="../images/site-logo.png" align="left" width="200" height="200">
 
