@@ -9,6 +9,12 @@ author_profile: true
 
 Empower Next POI Recommendation with Multi-Relation Modeling   
 ======
+<div class="pub-authors" itemprop="author">
+        <u><b>Ziniu Hu</b></u>, Yizhou Sun, and Kai-Wei Chang
+<div class="pub-publication"> The Conference on Empirical Methods in Natural Language Processing (EMNLP-Finding, 2021)</div></div>
+<div class="col-md-2" style="top:20px">
+    <img src="/img/headers/qa.png" class="pub-banner" itemprop="image" /></div>
+<div class="col-md-9" style="top:10px">
 * __Zheng Huang__, Jing Ma, Natasha Zhang Foutz and Jundong Li (Sep 2020 - Jul 2021, Submitted)
   *  Studied on Points of Interests (POI) recommendation by capturing the influence of multiple relations
   *  Utilized multiple Graph Convolutional Networks (GCNs) with Self-Attention mechanism to capture multiple user-user social relations (family or colleague) and user-location check-in relations
@@ -26,53 +32,5 @@ Assessing the Causal Impact of COVID-19 Related Policies on Outbreak Dynamics
 
 
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
 
 
