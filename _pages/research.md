@@ -12,11 +12,19 @@ Empower Next POI Recommendation with Multi-Relation Modeling
 __Zheng Huang__, Jing Ma, Natasha Zhang Foutz and Jundong Li (Sep 2020 - Jul 2021, Submitted)
 
 <img src="../images/model_input.png" align="left" width="120" height="400">
+<ul>
+<li>Studied on Points of Interests (POI) recommendation by capturing the influence of multiple relations </li>
+<li>Utilized multiple Graph Convolutional Networks (GCNs) with Self-Attention mechanism to capture multiple user-user social relations (family or colleague) and user-location check-in relations</li>
+<li>Adopted coupled Recurrent Neural Networks (RNNs) to capture the mutal influence between users and POIs over time </li>
+<li>Conducted in-depth research on recommender system, sequential recommendation and Graph Convolutional Networks </li>
+</ul>
 
-  *  Studied on Points of Interests (POI) recommendation by capturing the influence of multiple relations
+
+<!--   *  Studied on Points of Interests (POI) recommendation by capturing the influence of multiple relations
   *  Utilized multiple Graph Convolutional Networks (GCNs) with Self-Attention mechanism to capture multiple user-user social relations (family or colleague) and user-location check-in relations
   *  Adopted coupled Recurrent Neural Networks (RNNs) to capture the mutal influence between users and POIs over time
-  *  Conducted in-depth research on recommender system, sequential recommendation and Graph Convolutional Networks
+  *  Conducted in-depth research on recommender system, sequential recommendation and Graph Convolutional Networks -->
+
 
 
 
