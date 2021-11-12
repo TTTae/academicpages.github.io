@@ -17,8 +17,8 @@ My research mainly focus on graph neural networks, with their applications in so
 
 Education
 ===
-* Master of Computer Science in the University of Virginia
-  * Charlottesville (Aug 2019 - Expected Dec 2021)
+* Master of Computer Science in the University of Virginia (Aug 2019 - Expected Dec 2021)
+  * Major GPA: 3.95/4.00 Charlottesville, VA, United States, 
 * Visiting Student in the University of British Columbia, Vancouver (June 2018 - August 2018)
 * Bachelor of Computer Science in Hebei University of Technology, Tianjin (Sept 2015 - June 2019)
  
