@@ -17,7 +17,6 @@ My research mainly focus on graph neural networks, with their applications in so
 
 Education
 ===
-__University of Virginia__
-Master of Computer Science
-Charlottesville, VA, United States
+* __Master of Computer Science__ in the University of Virginia, Charlottesville, VA, United States (Aug 2019 - Expected Dec 2021)
+ 
  
