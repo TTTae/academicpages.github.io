@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a third-year CS Ph.D candidate at University of Calofornia, Los Angeles (UCLA), and had the fortune to be advised by Prof. Yizhou Sun. I also work closely with Prof. Kai-Wei Chang. Previously, I received my CS bachelor degree in Peking University, advised by Prof. Xuanzhe Liu.
+I am currently a second-year CS master student at the University of Virginia, and had the fortune to be advised by Prof. Jundong Li. Previously, I received my CS bachelor degree in Hebei University of Technology.
 
-My research mainly focus on graph neural networks, with their applications in language processing, graph mining, etc.
+My research mainly focus on graph neural networks, with their applications in social recommenation, graph mining, etc.
 
 <!-- A data-driven personal website
 ======
