@@ -42,3 +42,12 @@ Misc
 ===
 * I come from [Tianjin](https://en.wikipedia.org/wiki/Tianjin), a coastal metropolis in Northern China
 * I like Guitar, Piano, Driving and K-pop, my favourite K-pop group is [Girls' Generation](https://en.wikipedia.org/wiki/Girls%27_Generation)
+
+<body> 
+ <div align="left">
+
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=500&t=n&d=i_vS7yVc7igJx0i6aeUshfneF7fgbXZA48Cf6bC_Jn8&co=2d78ad&ct=ffffff&cmo=3acc3a&cmn=ff5353'></script>
+   </div>
+</body>
+
+
