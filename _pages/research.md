@@ -7,7 +7,7 @@ author_profile: true
 {% include base_path %}
 
 
-Empowering Next POI Recommendation with Multi-Relation Modeling   
+Empowering Next POI Recommendation with Multi-Relational Modeling   
 ======
 * __Zheng Huang__, Jing Ma, Natasha Zhang Foutz and Jundong Li (Sep 2020 - Jul 2021, Submitted)
   *  Studied on Points of Interests (POI) recommendation by capturing the influence of multiple relations
