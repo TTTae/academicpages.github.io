@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a second-year CS master student at the University of Virginia, and had the fortune to be advised by Prof. [Jundong Li](http://www.ece.virginia.edu/~jl6qk/). Previously, I received my CS bachelor degree in Hebei University of Technology.
+I am currently a second-year CS master student at the University of Virginia, and had the fortune to be advised by Prof. [Jundong Li](http://www.ece.virginia.edu/~jl6qk/). Previously, I received my CS bachelor degree in Hebei University of Technology. My [CV](https://tttae.github.io/cv_zheng_huang.pdf)
 
 
 Research Interest
