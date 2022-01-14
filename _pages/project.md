@@ -23,7 +23,7 @@ Operating System,  Sep. 2020 - Dec. 2020
 Students Management System
 ===
 SQL Fundamental, Mar. 2018 - Jul. 2018
-* Design user log in, search and multiple students related interfaces by Java Swing 
+* Designed user log in, search and multiple students related interfaces by Java Swing 
 * Implemented students information entry, query, modification and delet, student graduation and exam record
 * Deployed the system on WampServer
 
