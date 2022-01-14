@@ -32,7 +32,7 @@ Programming
 
 Services
 ===
-External Reviewer: PAKDD’21, WSDM'21
+External Reviewer: PAKDD, WSDM
 
 Awards
 ===
