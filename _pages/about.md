@@ -13,7 +13,7 @@ I am currently a second-year CS master student at the University of Virginia, an
 
 Research Interest
 ===
-My research mainly focus on graph neural networks, with their applications in social recommenation, graph mining, etc.
+My research mainly focus on graph neural networks, with their applications in social recommendation, graph mining, etc.
 
 Education
 ===
