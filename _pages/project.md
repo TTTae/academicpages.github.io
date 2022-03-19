@@ -7,12 +7,21 @@ author_profile: true
 {% include base_path %}
 
 
+
 Enrich Sequence to Sequence Video to Text Captioning with Action Recognition
 ===
 Vision and Language, Sep. 2020 - Dec. 2020, [Link](https://github.com/stillarrow/S2VT_ACT)
 * Proposed a novel model, S2VTACT,  to capture action features from video skeleton graphs with spatial-temporal GCN 
 * Utilized a stack of 2 recurrent units(GRU) encoders and decoders to learn video captioning with injected action features
 * Investigated video captioning and applications of natural language processing (NLP)
+
+Identify Human-brand Co-location Network
+===
+* Studied on identifying broad human and brand co-location networks to advise personalized recommendation
+* Preprocessed large scale location GPS data and decorated POIs for check-in data in a distributed environment with PySpark 
+*  Investigated the application of distributed computing and clustering algorithms
+
+
 
 Secured QEMU License Plates Dection
 ===
