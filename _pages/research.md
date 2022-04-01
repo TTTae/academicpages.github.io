@@ -9,7 +9,8 @@ author_profile: true
 
 Empowering Next POI Recommendation with Multi-Relational Modeling   
 ======
-* __Zheng Huang__, Jing Ma, Natasha Zhang Foutz and Jundong Li (Sep 2020 - Jul 2021, Submitted)
+* __Zheng Huang__, Jing Ma, Natasha Zhang Foutz and Jundong Li (Sep 2020 - Jul 2021)
+* Special Interest Group on Information Retrieval (SIGIR 2022)
   *  Studied on Points of Interests (POI) recommendation by capturing the influence of multiple relations
   *  Utilized multiple Graph Convolutional Networks (GCNs) with Self-Attention mechanism to capture multiple user-user social relations (family or colleague) and user-location check-in relations
   *  Adopted coupled Recurrent Neural Networks (RNNs) to capture the mutual influence between users and POIs over time
