@@ -7,8 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-I am currently a second-year CS master student at the University of Virginia, and had the fortune to be advised by Prof. [Jundong Li](http://www.ece.virginia.edu/~jl6qk/). Previously, I received my CS bachelor degree in Hebei University of Technology. My [CV](https://tttae.github.io/cv_zheng_huang.pdf)
+I am currently a SDE at Amazon Alexa Speech Recognition team. I am working on developing Federated Learning systems to preserve users' privacy while improving the quality of speech recognition models.
+Previously, I received my CS master degree in University of Virginia, and had the fortune to be advised by Prof. [Jundong Li](http://www.ece.virginia.edu/~jl6qk/). My [CV](https://tttae.github.io/cv_zheng_huang.pdf)
 
 
 Research Interest
@@ -32,7 +32,8 @@ Programming
 
 Services
 ===
-External Reviewer: PAKDD, WSDM
+Reviewer: AMLC (Amazon Machine Learning Conference)’22
+External Reviewer: PAKDD’21, WSDM’21
 
 Awards
 ===
