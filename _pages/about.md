@@ -13,7 +13,7 @@ Previously, I received my CS master degree in University of Virginia, and had th
 
 Research Interest
 ===
-My research mainly focus on graph neural networks, with their applications in social recommendation, graph mining, etc.
+My research mainly focus on federated learning and graph neural networks, with their applications in graph mining and user privacy protection, etc.
 
 Education
 ===
