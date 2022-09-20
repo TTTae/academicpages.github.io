@@ -37,7 +37,8 @@ Services
 
 Awards
 ===
-Top Academic Fellowship (2016, 2017, 2018)
+* SIGIR Student Grant (2022)
+* Top Academic Fellowship (2016, 2017, 2018)
 
 Misc
 ===
