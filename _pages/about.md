@@ -33,7 +33,7 @@ Programming
 Services
 ===
 * Reviewer: AMLC (Amazon Machine Learning Conference)’22
-* External Reviewer: PAKDD’21, WSDM’21
+* External Reviewer: JMLR'22, ECML'22, PAKDD’21, WSDM’21
 
 Awards
 ===
