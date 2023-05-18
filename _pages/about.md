@@ -24,11 +24,12 @@ Education
 * Bachelor of Computer Science, Hebei University of Technology (Sept 2015 - June 2019)
   * Major GPA: 87/100, Tianjin, China
  
- 
+ <!--
 Programming
 ===
 * Programming in Python/Java/C++/C/R/Javascript/HTML/CSS/SQL/ MATLAB
 * Skillful in PyTorch/TensorFlow/Scikit-learn/Latex   
+-->
 
 Services
 ===
