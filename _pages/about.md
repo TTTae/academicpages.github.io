@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 I am currently a PhD student at Dartmouth College.
-Previously, I spent one year at Amazon Alexa Speech Recognition team. I received my CS master degree in University of Virginia <!--, and had the fortune to be advised by Prof. [Jundong Li](http://www.ece.virginia.edu/~jl6qk/) -->. My [CV](https://tttae.github.io/zheng_huang_cv.pdf).
+Previously, I spent one year at Amazon Alexa Speech Recognition team. I received my CS master degree in University of Virginia<!--, and had the fortune to be advised by Prof. [Jundong Li](http://www.ece.virginia.edu/~jl6qk/) -->. My [CV](https://tttae.github.io/zheng_huang_cv.pdf).
 
 
 Research Interest
