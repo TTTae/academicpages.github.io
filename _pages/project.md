@@ -15,13 +15,13 @@ Vision and Language, Sep. 2020 - Dec. 2020, [Link](https://github.com/stillarrow
 * Utilized a stack of 2 recurrent units(GRU) encoders and decoders to learn video captioning with injected action features
 * Investigated video captioning and applications of natural language processing (NLP)
 
-Identify Human-brand Co-location Network
+<!---Identify Human-brand Co-location Network
 ===
 Advised by Professor [Natasha Zhang Foutz](https://www.commerce.virginia.edu/faculty/ynf8a), May 2020 - Jan 2021
 
 * Studied on identifying broad human and brand co-location networks to advise personalized recommendation
 * Preprocessed large scale location GPS data and decorated POIs for check-in data in a distributed environment with PySpark 
-*  Investigated the application of distributed computing and clustering algorithms
+*  Investigated the application of distributed computing and clustering algorithms --->
 
 
 
