@@ -19,11 +19,11 @@ My research primarily revolves around the domains of Graph Mining and Machine Le
 
 Education
 ===
-* Master of Computer Science, University of Virginia (Aug 2019 - Dec 2021)
+* Master of Computer Science, University of Virginia (2019 - 2021)
   * Major GPA: 3.95/4.00, Charlottesville, VA, United States
 * Visiting Student, University of British Columbia (June 2018 - August 2018)
   * Department of Electrical and Computer Engineering, Vancouver, BC, Canada 
-* Bachelor of Computer Science, Hebei University of Technology (Sept 2015 - June 2019)
+* Bachelor of Computer Science, Hebei University of Technology (2015 - 2019)
   * Major GPA: 87/100, Tianjin, China
  
  
