@@ -15,7 +15,7 @@ Previously, I spent one year at Amazon Alexa Speech Recognition team. I received
 
 Research Interest
 ===
-My research primarily revolves around the domains of Graph Theory and Data Mining.
+My research primarily revolves around Graph Theory and Data Mining.
 
 Education
 ===
