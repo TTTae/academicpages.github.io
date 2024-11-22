@@ -7,10 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a PhD student at Dartmouth College 
-
-<!--- advised by Prof. [Yujun Yan](https://sites.google.com/umich.edu/yujunyan/home).
-Previously, I spent one year at Amazon Alexa Speech Recognition team. I received my CS master degree in University of Virginia, and had the fortune to be advised by Prof. [Jundong Li](http://www.ece.virginia.edu/~jl6qk/). --->
+I am currently a PhD student at Dartmouth College advised by Prof. [Yujun Yan](https://sites.google.com/umich.edu/yujunyan/home).
+Previously, I spent one year at Amazon Alexa Speech Recognition team. I received my CS master's degree from University of Virginia, and had the fortune to be advised by Prof. [Jundong Li](http://www.ece.virginia.edu/~jl6qk/).
 
 <!---My [CV](https://tttae.github.io/zheng_huang_cv.pdf).--->
 
@@ -29,16 +27,16 @@ Education
   * Major GPA: 87/100, Tianjin, China
  
  
-<!---
+
 Services
 ===
-* Reviewer: AMLC (Amazon Machine Learning Conference)’22
+* Reviewer: AMLC (Amazon Machine Learning Conference)’22, ICLR’24, NeurIPS’24
 * External Reviewer: ICLR'23, JMLR'22, ECML'22, PAKDD’21, WSDM’21
---->
+
 
 Awards
 ===
-<!---* SIGIR Student Grant (2022)--->
+* SIGIR Student Grant (2022)
 * Top Academic Fellowship (2016, 2017, 2018, 2019)
 
 Misc
