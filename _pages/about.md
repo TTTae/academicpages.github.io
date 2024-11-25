@@ -36,7 +36,7 @@ Services
 
 Awards
 ===
-* SIGIR Student Grant (2022)
+* ICML Travel Grant (2024), SIGIR Student Grant (2022)
 * Top Academic Fellowship (2016, 2017, 2018, 2019)
 
 Misc
