@@ -12,13 +12,12 @@ Enhancing Size Generalization in GNNs through Disentangled Representation Learni
 ======
 * __Zheng Huang__, Qihui Yang, Dawei Zhou and Yujun Yan
 * International Conference on Machine Learning (ICML 2024) [[Arxiv]](https://arxiv.org/abs/2406.04601)
-* Researched the generalization of Graph Neural Networks (GNNs) through disentangled representation learning
-  
-*  Proposed a novel and model-agnostic framework designed to disentangle size factors from graph representations
 
-* Employed size- and task-invariant augmentations, introducing a decoupling loss to minimize shared information in hidden representations
 
-* Conducted in-depth research on OOD generalization, explainable GNN models and disentangled representation learning
+  * Researched the generalization of Graph Neural Networks (GNNs) through disentangled representation learning  
+  * Proposed a novel and model-agnostic framework designed to disentangle size factors from graph representations
+  * Employed size- and task-invariant augmentations, introducing a decoupling loss to minimize shared information in hidden representations
+  * Conducted in-depth research on OOD generalization, explainable GNN models and disentangled representation learning
 
 
 Empowering Next POI Recommendation with Multi-Relational Modeling   
@@ -27,7 +26,7 @@ Empowering Next POI Recommendation with Multi-Relational Modeling
 * Special Interest Group on Information Retrieval (SIGIR 2022) [[Arxiv]](https://arxiv.org/abs/2204.12288)
 
 
-*  Studied on Points of Interests (POI) recommendation by capturing the influence of multiple relations
+  *  Studied on Points of Interests (POI) recommendation by capturing the influence of multiple relations
   *  Utilized multiple Graph Convolutional Networks (GCNs) with Self-Attention mechanism to capture multiple user-user social relations (family or colleague) and user-location check-in relations
   *  Adopted coupled Recurrent Neural Networks (RNNs) to capture the mutual influence between users and POIs over time
   *  Conducted in-depth research on recommender system, sequential recommendation and Graph Convolutional Networks
