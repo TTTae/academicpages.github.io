@@ -15,7 +15,8 @@ Previously, I spent one year at Amazon Alexa Speech Recognition team. I received
 
 Research Interest
 ===
-My research primarily revolves around Graph Theory and Data Mining.
+I specialize in Graph Machine Learning, with an emphasis on improving its generalizability and exploring its applications in multimodal learning.
+
 
 Education
 ===
