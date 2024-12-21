@@ -15,8 +15,13 @@ Previously, I spent one year at Amazon Alexa Speech Recognition team. I received
 
 Research Interest
 ===
-I specialize in Graph Machine Learning, with an emphasis on improving its generalizability and exploring its applications in multimodal learning.
+I am interested in **Machine Learning** and **Large Language Models (LLMs)**, including:
 
+   * **Graph ML**: Designing frameworks for diverse graph-structured to enhance model generalization and applying graph ML models to real-world applications, such as recommender systems
+
+   * **Multimodal LLMs**: Developing multimodal LLM frameworks to bridge neuroscience and computer vision \& natural language processing to understand how the human brain processes and represents knowledge
+  * **Federated Learning (FL)**: Building FL systems to make life-long learning possible and mitigate privacy risks \& training costs resulting from traditional, centralized machine learning 
+    
 
 Education
 ===
