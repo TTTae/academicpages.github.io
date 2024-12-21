@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 I am a 2nd-year PhD student at Dartmouth College advised by Prof. [Yujun Yan](https://sites.google.com/umich.edu/yujunyan/home).
-Previously, I spent one year at Amazon Alexa Speech Recognition team. I received my CS master's degree from University of Virginia, and had the fortune to be advised by Prof. [Jundong Li](http://www.ece.virginia.edu/~jl6qk/). My [CV](https://tttae.github.io/zheng_huang_cv.pdf).
+Previously, I spent one year at Amazon Alexa Speech Recognition team. I received my CS master's degree from University of Virginia, and had the fortune to be advised by Prof. [Jundong Li](http://www.ece.virginia.edu/~jl6qk/). My [CV](https://tttae.github.io/zheng_huang.pdf).
 
 
 Research Interest
